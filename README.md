@@ -1,2 +1,3 @@
 # Cubeshape-Square-1
-Cubeshape graph
+Tree-style graph of the cubeshape of a Square-1, and the way I solve them.
+Generated with python
